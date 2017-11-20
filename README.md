@@ -1,2 +1,2 @@
-# ElectroniX
+# PhysHelper
 TUI

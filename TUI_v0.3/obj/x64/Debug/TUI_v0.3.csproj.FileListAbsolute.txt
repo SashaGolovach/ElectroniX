@@ -1,0 +1,17 @@
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\MainWindow.baml
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\ElectronicCircuitLab.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\Element.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\Elements\LabWork.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\HomePage.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\LabElement.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\MainWindow.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\LabElements\Multimeter.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\SettingsWindows\GeneralSettings.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\Slides\Slide1.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\Slides\Slide2.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\Slides\Slide3.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\App.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\TUI_v0.3_MarkupCompile.cache
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\TUI_v0.3_MarkupCompile.lref
+C:\Users\gsanc\Desktop\temp\temp\TUI_v0.4\TUI_v0.4\TUI_v0.3\obj\x64\Debug\TUI_v0.3.csprojResolveAssemblyReference.cache

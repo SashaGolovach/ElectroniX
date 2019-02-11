@@ -3,7 +3,7 @@
 This project was developed for Young Programmers Tournament 2017 in Ukraine. Physhelper is a desktop application that helps students to learn physics and do scientific experiments.
 ## Modern design
 <p align="center">
-  <img src="./screen.png">
+  <img src="./Screen.png">
 </p>
 
 ## Create your own circuits 
